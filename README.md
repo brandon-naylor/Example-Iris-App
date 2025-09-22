@@ -1,10 +1,3 @@
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-  <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/219/original/CT_LOGO_NEW.jpg" width="100" style="margin-right: 10px;">
-  <div>
-    <h1><b>Intro to Streamlit</b></h1>
-  </div>
-</div>
-
 ## What is Streamlit?
 
 Streamlit is a Python library for creating interactive web applications effortlessly. It simplifies the process of turning data scripts into shareable web apps, making it accessible to both beginners and experienced developers.
